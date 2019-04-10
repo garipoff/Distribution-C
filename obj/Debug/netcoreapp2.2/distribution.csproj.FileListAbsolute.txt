@@ -1,0 +1,11 @@
+/home/grf/distribution/obj/Debug/netcoreapp2.2/distribution.csprojAssemblyReference.cache
+/home/grf/distribution/obj/Debug/netcoreapp2.2/distribution.csproj.CoreCompileInputs.cache
+/home/grf/distribution/obj/Debug/netcoreapp2.2/distribution.AssemblyInfoInputs.cache
+/home/grf/distribution/obj/Debug/netcoreapp2.2/distribution.AssemblyInfo.cs
+/home/grf/distribution/bin/Debug/netcoreapp2.2/distribution.deps.json
+/home/grf/distribution/bin/Debug/netcoreapp2.2/distribution.runtimeconfig.json
+/home/grf/distribution/bin/Debug/netcoreapp2.2/distribution.runtimeconfig.dev.json
+/home/grf/distribution/bin/Debug/netcoreapp2.2/distribution.dll
+/home/grf/distribution/bin/Debug/netcoreapp2.2/distribution.pdb
+/home/grf/distribution/obj/Debug/netcoreapp2.2/distribution.dll
+/home/grf/distribution/obj/Debug/netcoreapp2.2/distribution.pdb
